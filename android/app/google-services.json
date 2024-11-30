@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36490802378",
+    "project_id": "umove-c5017",
+    "storage_bucket": "umove-c5017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36490802378:android:037c53d5002ebc5cfe7033",
+        "android_client_info": {
+          "package_name": "com.mycompany.umove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTmTys9QYriDgvfPYaGFfd_Mh99cUDHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

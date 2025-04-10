@@ -6,9 +6,13 @@ UMove - Your Uni Travel Buddy! A mobile application that includes all modes of t
 Key features include:
 
 a) UM Sapu with transparency in pricing
+
 b) UM Bus Route Viewing 
+
 c) MRT T815 and LRT T789 Bus Routes checking
+
 d) Carbon Footprint Tracker based on mode of transportation with daily and monthly count
+
 
 This project was developed completely using FlutterFlow, and Firebase for database
 

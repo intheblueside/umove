@@ -8,7 +8,7 @@ c) MRT T815 and LRT T789 Bus Routes
 d) Carbon Footprint Tracker based on mode of transportation with daily and monthly count
 
 
-*Disclaimer: This project was made for PEKOM Internal Hackathon 2024 & and has a basic build (focused on the fronted compared to backend)
+*Disclaimer: This project was made for PEKOM Internal Hackathon 2024 & and has a basic build (focused on the frontend compared to backend)
 
 ## Getting Started
 

@@ -16,7 +16,7 @@ d) Carbon Footprint Tracker based on mode of transportation with daily and month
 
 This project was developed completely using FlutterFlow, and Firebase for database
 
-*Disclaimer: This project was made for PEKOM Internal Hackathon 2024 & and has a basic build (focused on the frontend compared to backend)
+*Disclaimer: This project was made for PEKOM Internal Hackathon 2024 & has a basic build (focused on the frontend compared to backend)
 
 ## Getting Started
 

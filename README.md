@@ -1,7 +1,10 @@
 # UMove
 
 UMove - Your Uni Travel Buddy! A mobile application that includes all modes of transportation to be available to the students of UM while addressing convenience and environmental awareness
+
+
 Key features include:
+
 a) UM Sapu with transparency in pricing
 b) UM Bus Route Viewing 
 c) MRT T815 and LRT T789 Bus Routes checking
